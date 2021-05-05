@@ -1,3 +1,3 @@
-module.exports = function insert (Component) {
+module.exports = function insert () {
   return 42
 }
